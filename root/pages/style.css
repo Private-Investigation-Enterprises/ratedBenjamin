@@ -1,0 +1,24 @@
+Body{
+Height: 100vh;
+Display: flex;
+Justify-content: right;
+Align-items: right;
+background-color: black;
+}
+#aboutMe h2{margin-bottom: 25px;}
+.imp-wrap{width: 100%}
+.img-wrap img{width: 100%;padding: 10px;border-radius: 50%;box-shadow: 0 0 10px #FFFAFA}
+
+.imp-wrap{width: 100%}
+.img-wrap img{width: 100%;padding: 10px;border-radius: 50%;box-shadow: 0 0 10px #FFFAFA}
+
+.img2
+{
+    float: right;
+}
+.paragraph2{
+    float: right;
+}
+
+
+
